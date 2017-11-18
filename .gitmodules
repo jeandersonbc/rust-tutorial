@@ -1,0 +1,3 @@
+[submodule "2-hello-cargo"]
+	path = 2-hello-cargo
+	url = https://github.com/jeandersonbc/hello_cargo.git
