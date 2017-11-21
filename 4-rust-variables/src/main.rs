@@ -20,4 +20,7 @@ fn main() {
     // the datatype, as well:
     const MAX_VALUE : u32 = 100_000;
     println!("MAX VALUE IS: {}", MAX_VALUE);
+
+    // NOTE: Shadowing is different from making a variable mutable!
+    // Read the docs for more info, if necessay :-)
 }
