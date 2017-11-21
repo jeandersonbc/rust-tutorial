@@ -1,0 +1,6 @@
+[package]
+name = "rust-variables"
+version = "0.1.0"
+authors = ["Jeanderson Candido <jeandersonbc@gmail.com>"]
+
+[dependencies]
