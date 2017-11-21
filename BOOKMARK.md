@@ -1,3 +1,3 @@
 Next reading:
 
-* https://doc.rust-lang.org/book/second-edition/ch03-01-variables-and-mutability.html#shadowing
+* https://doc.rust-lang.org/stable/book/second-edition/ch03-02-data-types.html 
